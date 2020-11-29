@@ -1,6 +1,6 @@
 # Go Koans ![](gopher.png)
 
-Currently WIP: [![Actions Status](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)](https://github.com/willfolsom/go-koans/actions)
+![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master)
 
 Solved [Go](https://golang.org/) Koans, forked from [cdarwin/go-koans](https://github.com/cdarwin/go-koans).
 
